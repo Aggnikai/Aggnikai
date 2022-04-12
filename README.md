@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Aggnikai
+- 👀 I’m interested in Javascript with ReactJS✨
+- 🌱 I’m currently learning NextJS✨
+- Love my little-family 💞️
